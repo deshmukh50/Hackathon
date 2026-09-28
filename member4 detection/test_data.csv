@@ -1,0 +1,11 @@
+test_id,actual,expected_probability,observed_probability
+1,NORMAL,0.50,0.52
+2,NORMAL,0.50,0.47
+3,NORMAL,0.50,0.54
+4,ATTACK,0.50,0.72
+5,ATTACK,0.50,0.81
+6,ATTACK,0.50,0.68
+7,NORMAL,0.50,0.51
+8,ATTACK,0.50,0.74
+9,NORMAL,0.50,0.48
+10,ATTACK,0.50,0.77
